@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Eu sou Kayo Oliveira
 
-<!--
-**KayoOliveira025/KayoOliveira025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+Sou estudante de Engenharia de Software, atualmente focado no desenvolvimento Back-end e na construção de projetos práticos para aprimorar minhas habilidades.
 
-Here are some ideas to get you started:
+### Tecnologias
+- **Python** — em desenvolvimento
+- **SQL** — em desenvolvimento
+- **Git e GitHub** — em desenvolvimento
+- **JavaScript** — em desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Áreas de interesse
+- Desenvolvimento Back-end
+- Engenharia de Dados
+- Bancos de Dados
+- Inteligência Artificial
+- Desenvolvimento de APIs
+
+### Projetos
+ Projetos em desenvolvimento e sendo adicionados ao portfólio.
+
+### Objetivo
+Construir uma base sólida em programação, bancos de dados e desenvolvimento Back-end, criando projetos que demonstrem minha evolução profissional.
